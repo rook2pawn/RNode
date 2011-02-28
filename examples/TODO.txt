@@ -1,0 +1,3 @@
+* Handle OnConnect code correctly! this means onconnect can only be executed once either in thread or in server, but the $server must propagaate freely between either one.
+
+
